@@ -1,0 +1,9 @@
+{
+  "port": ["COM8"],
+  "mqtt": {
+    "server": "mqtt://localhost",
+    "channel": "sphero",
+    "username": null,
+    "password": null
+  }
+}

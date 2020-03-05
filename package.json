@@ -1,0 +1,20 @@
+{
+  "name": "sphero3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.5.0",
+    "bluebird": "^3.7.2",
+    "browser-serialport": "^2.1.0",
+    "consola": "^2.11.3",
+    "mqtt": "^3.0.0",
+    "serialport": "^8.0.7"
+  }
+}
